@@ -1,0 +1,1 @@
+3.0 — fixed Gemini browser request and duplicate schedule handler
